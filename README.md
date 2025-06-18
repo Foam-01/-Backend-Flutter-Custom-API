@@ -4,9 +4,7 @@
 
 foam
 
-## Last Commit
 
-d6585b3 - first commit (36 minutes ago)
 
 ## Project Structure
 
